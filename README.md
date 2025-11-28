@@ -46,7 +46,7 @@ To design a secure embedded system that grants machine access only to authorized
 ⏳ RTC Edit Options
 1. Hour   2. Minute  3. Second  4. Day
 5. Date   6. Month   7. Year    8. Exit
-![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/Screenshot%202025-11-28%20233930.png)
+
 🛠 Hardware Requirements
 
 🔹 LPC2148 ARM7 MCU
