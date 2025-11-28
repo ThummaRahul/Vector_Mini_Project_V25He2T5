@@ -1,5 +1,7 @@
 🔐 TimeGuard Access Shield
+
 ⏳ Password-Controlled • Time-Restricted Machine Operation System
+
 🧠 Project Overview
 
 TimeGuard Access Shield is an intelligent access-controlled machine operation system that only allows device usage during authorized working hours and by authenticated users.
