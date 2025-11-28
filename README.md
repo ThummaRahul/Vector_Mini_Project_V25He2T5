@@ -16,7 +16,10 @@ To design a secure embedded system that grants machine access only to authorized
 🔸 Store configurable working hours in variables
 🔸 Allow password and timing modification through external interrupt
 🔸 Automatically enable/disable device based on authorized time window
+
 ![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/Screenshot%202025-11-28%20234012.png)
+
+
 🔥 Features at a Glance
 🚀 Feature	📝 Description
 ⏱ Real-time RTC Display	Continuously shows updated time & date
@@ -56,7 +59,11 @@ To design a secure embedded system that grants machine access only to authorized
 🔹 Relay / LED (Load simulation)
 🔹 Interrupt Push Switch
 🔹 USB-UART/DB-9 cable for flashing
+
+
 ![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/Screenshot%202025-11-28%20234146.png)
+
+
 💻 Software Requirements
 
 🛠 Embedded-C
@@ -76,6 +83,7 @@ This project proves the potential of embedded systems in real-time access-restri
 
 👨‍💻 Developed & Implemented By
 🏆 Thumma Rahul
+
 🆔 Vector ID: V25he2T5
 
 
