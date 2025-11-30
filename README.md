@@ -101,7 +101,7 @@ To design a secure embedded system that grants machine access only to authorized
 🔹 USB-UART/DB-9 cable for flashing
 
 
-![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/Screenshot%202025-11-28%20234146.png)
+![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/3.png?raw=true)
 
 
 💻 Software Requirements
