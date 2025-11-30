@@ -64,8 +64,8 @@ void DisplayRTCTime(u32 hour, u32 minute, u32 second)
 		CharLCD(':');
 		CharLCD((second/10)+48);
 		CharLCD((second%10)+48);
-    CmdLCD(GOTO_LINE1_POS0+9);
-	  StrLCD("Pass(+)");
+        CmdLCD(GOTO_LINE1_POS0+11);
+	    StrLCD("pwd:+");
 	
 }
 
@@ -172,3 +172,4 @@ void SetRTCDay(u32 day)
 {
 	DOW = day;
 }
+
