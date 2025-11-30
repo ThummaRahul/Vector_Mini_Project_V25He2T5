@@ -24,7 +24,8 @@ To design a secure embedded system that grants machine access only to authorized
 🔸 Automatically enable/disable device based on authorized time window
 
 
-![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/Screenshot%202025-11-28%20234012.png)
+![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/1.png?raw=true)
+
 
 
 🔥 Features at a Glance
