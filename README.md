@@ -27,7 +27,6 @@ To design a secure embedded system that grants machine access only to authorized
 ![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/1.png?raw=true)
 
 
-
 🔥 Features at a Glance
 
 🚀 Feature	
@@ -75,6 +74,10 @@ To design a secure embedded system that grants machine access only to authorized
 
 1. E.RTCINFO      3. PWD CHG
 2. E.DEV.A.TIME   4. EXIT
+
+
+![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/2.png?raw=true)
+
 
 
 ⏳ RTC Edit Options
