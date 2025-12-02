@@ -33,34 +33,34 @@ To design a secure embedded system that grants machine access only to authorized
 🚀 Feature	
     📝 Description
     
-          ⏱ Real-time RTC Display	Continuously shows updated time & date
+     ⏱ Real-time RTC Display	Continuously shows updated time & date
           
-          🔐 Password Authentication	Prevents unauthorized access
+    🔐 Password Authentication	Prevents unauthorized access
           
-          🕒 Time-Restricted Operation	Machine runs only inside allowed window
+    🕒 Time-Restricted Operation	Machine runs only inside allowed window
           
-          🎛 Interrupt-Based Menu	Allows live modifications anytime
+     🎛 Interrupt-Based Menu	Allows live modifications anytime
           
-          🔄 Editable RTC + Password + Time	Fully configurable through keypad
+     🔄 Editable RTC + Password + Time	Fully configurable through keypad
           
-          ⚡ Device Control Output	Relay/LED toggles based on access status
+    ⚡ Device Control Output	Relay/LED toggles based on access status
 
 📌 Working Flow
 
         
-            1️⃣ Power ON → Modules initialize (LCD, Keypad, RTC, I/O)
+    1️⃣ Power ON → Modules initialize (LCD, Keypad, RTC, I/O)
             
-            2️⃣ LCD shows real-time clock continuously 🕒
+    2️⃣ LCD shows real-time clock continuously 🕒
             
-            3️⃣ User requests entry → Enters password via keypad ⌨
+    3️⃣ User requests entry → Enters password via keypad ⌨
             
-            4️⃣ System checks validity ✔
+    4️⃣ System checks validity ✔
             
-              ◾ If Valid + Within Time → Device ON ⚡
+            ◾ If Valid + Within Time → Device ON ⚡
               
-              ◾ Else → Access DENIED ❌
+            ◾ Else → Access DENIED ❌
               
-            5️⃣ External interrupt 🔘 opens configuration menu
+     5️⃣ External interrupt 🔘 opens configuration menu
             
             ➤ Edit RTC Time
             
