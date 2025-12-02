@@ -31,17 +31,18 @@ To design a secure embedded system that grants machine access only to authorized
 🔥 Features at a Glance
 
 🚀 Feature	
+
     📝 Description
     
-     ⏱ Real-time RTC Display	Continuously shows updated time & date
+    ⏱ Real-time RTC Display	Continuously shows updated time & date
           
     🔐 Password Authentication	Prevents unauthorized access
           
     🕒 Time-Restricted Operation	Machine runs only inside allowed window
           
-     🎛 Interrupt-Based Menu	Allows live modifications anytime
+    🎛 Interrupt-Based Menu	Allows live modifications anytime
           
-     🔄 Editable RTC + Password + Time	Fully configurable through keypad
+    🔄 Editable RTC + Password + Time	Fully configurable through keypad
           
     ⚡ Device Control Output	Relay/LED toggles based on access status
 
