@@ -111,7 +111,7 @@ To design a secure embedded system that grants machine access only to authorized
     
     🛠 Keil µVision
     
-    🛠 Flash Magic Programmer
+    🛠 Flash Magic
 
 
 📌 Conclusion
