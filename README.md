@@ -118,9 +118,7 @@ To design a secure embedded system that grants machine access only to authorized
 📌 Conclusion
 
 
-    TimeGuard Access Shield delivers a smart fusion of authentication + automation + time monitoring, 
-    making it suitable for: This project proves the potential of embedded systems in real-time 
-    access-restricted automation—secure, scalable, user-friendly, and deployment-ready.
+   The TimeGuard Access Shield provides a secure and reliable solution for controlling machine operation using password authentication and RTC-based time restrictions. By integrating real-time monitoring, programmable working-hour limits, and    an interrupt-driven configuration menu, the system ensures that only authorized users can operate the device and only during permitted hours. This enhances safety, prevents unauthorized usage, and supports disciplined machine management in     laboratories, workshops, and industrial environments. With flexible editing options for RTC, password, and device timing, the system offers both usability and strong access control, making it a practical and efficient embedded application.
 
 
 👨‍💻 Developed & Implemented By
