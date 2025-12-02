@@ -48,27 +48,27 @@ To design a secure embedded system that grants machine access only to authorized
 📌 Working Flow
 
         
-        1️⃣ Power ON → Modules initialize (LCD, Keypad, RTC, I/O)
-        
-        2️⃣ LCD shows real-time clock continuously 🕒
-        
-        3️⃣ User requests entry → Enters password via keypad ⌨
-        
-        4️⃣ System checks validity ✔
-        
-          ◾ If Valid + Within Time → Device ON ⚡
-          
-          ◾ Else → Access DENIED ❌
-          
-        5️⃣ External interrupt 🔘 opens configuration menu
-        
-        ➤ Edit RTC Time
-        
-        ➤ Change Device Operational Hours
-        
-        ➤ Change Password
-        
-        ➤ Exit
+            1️⃣ Power ON → Modules initialize (LCD, Keypad, RTC, I/O)
+            
+            2️⃣ LCD shows real-time clock continuously 🕒
+            
+            3️⃣ User requests entry → Enters password via keypad ⌨
+            
+            4️⃣ System checks validity ✔
+            
+              ◾ If Valid + Within Time → Device ON ⚡
+              
+              ◾ Else → Access DENIED ❌
+              
+            5️⃣ External interrupt 🔘 opens configuration menu
+            
+            ➤ Edit RTC Time
+            
+            ➤ Change Device Operational Hours
+            
+            ➤ Change Password
+            
+            ➤ Exit
 
 
 🧾 Configuration Menu (on interrupt)
