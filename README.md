@@ -1,6 +1,6 @@
-🔐 TimeGuard Access Shield
+                                                 🔐 TimeGuard Access Shield
 
-⏳ Password-Controlled • Time-Restricted Machine Operation System
+                                 ⏳ Password-Controlled • Time-Restricted Machine Operation System
 
 🧠 Project Overview
 
