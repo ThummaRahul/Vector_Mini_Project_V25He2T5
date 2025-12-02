@@ -118,10 +118,9 @@ To design a secure embedded system that grants machine access only to authorized
 📌 Conclusion
 
 
-    TimeGuard Access Shield delivers a smart fusion of authentication + automation + time monitoring, making it suitable for:
-
-
-This project proves the potential of embedded systems in real-time access-restricted automation—secure, scalable, user-friendly, and deployment-ready.
+    TimeGuard Access Shield delivers a smart fusion of authentication + automation + time monitoring, 
+    making it suitable for: This project proves the potential of embedded systems in real-time 
+    access-restricted automation—secure, scalable, user-friendly, and deployment-ready.
 
 
 👨‍💻 Developed & Implemented By
