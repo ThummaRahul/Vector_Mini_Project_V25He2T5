@@ -5,7 +5,8 @@
 🧠 Project Overview
 
 TimeGuard Access Shield is an intelligent access-controlled machine operation system that only allows device usage during authorized working hours and by authenticated users.
-By integrating RTC time tracking, password authentication, and interrupt-based configuration, this project enhances security, prevents misuse, and ensures safe automation in controlled environments.
+By integrating RTC time tracking, password authentication, and interrupt-based configuration, this project enhances security, prevents misuse, and ensures safe automation in 
+controlled environments.
 
 🎯 AIM
 
@@ -13,15 +14,15 @@ To design a secure embedded system that grants machine access only to authorized
 
 ⭐ Key Objectives
 
-🔸 Display real-time clock (Date + Time) on LCD
-
-🔸 User authentication through secure password input
-
-🔸 Store configurable working hours in variables
-
-🔸 Allow password and timing modification through external interrupt
-
-🔸 Automatically enable/disable device based on authorized time window
+    🔸 Display real-time clock (Date + Time) on LCD
+    
+    🔸 User authentication through secure password input
+    
+    🔸 Store configurable working hours in variables
+    
+    🔸 Allow password and timing modification through external interrupt
+    
+    🔸 Automatically enable/disable device based on authorized time window
 
 
 ![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/1.png?raw=true)
@@ -30,19 +31,19 @@ To design a secure embedded system that grants machine access only to authorized
 🔥 Features at a Glance
 
 🚀 Feature	
-📝 Description
-
-⏱ Real-time RTC Display	Continuously shows updated time & date
-
-🔐 Password Authentication	Prevents unauthorized access
-
-🕒 Time-Restricted Operation	Machine runs only inside allowed window
-
-🎛 Interrupt-Based Menu	Allows live modifications anytime
-
-🔄 Editable RTC + Password + Time	Fully configurable through keypad
-
-⚡ Device Control Output	Relay/LED toggles based on access status
+    📝 Description
+    
+          ⏱ Real-time RTC Display	Continuously shows updated time & date
+          
+          🔐 Password Authentication	Prevents unauthorized access
+          
+          🕒 Time-Restricted Operation	Machine runs only inside allowed window
+          
+          🎛 Interrupt-Based Menu	Allows live modifications anytime
+          
+          🔄 Editable RTC + Password + Time	Fully configurable through keypad
+          
+          ⚡ Device Control Output	Relay/LED toggles based on access status
 
 📌 Working Flow
 
@@ -89,19 +90,18 @@ To design a secure embedded system that grants machine access only to authorized
 🛠 Hardware Requirements
 
 
-🔹 LPC2148 ARM7 MCU
-
-🔹 16x2 LCD Display
-
-🔹 4x4 Matrix Keypad
-
-🔹 RTC IC + Backup Cell
-
-🔹 Relay / LED (Load simulation)
-
-🔹 Interrupt Push Switch
-
-🔹 USB-UART/DB-9 cable for flashing
+      🔹 LPC2148 ARM7 MCU
+      
+      🔹 16x2 LCD Display
+      
+      🔹 4x4 Matrix Keypad
+      
+      🔹 RTC + Backup Cell
+      
+      🔹 LED
+      
+      🔹 Interrupt Push Switch
+      
 
 
 ![image alt](https://github.com/ThummaRahul/Vector_Mini_Project_V25He2T5/blob/main/main/3.png?raw=true)
@@ -110,26 +110,17 @@ To design a secure embedded system that grants machine access only to authorized
 💻 Software Requirements
 
 
-🛠 Embedded-C
-
-🛠 Keil µVision or ARM-GCC
-
-🛠 Flash Magic Programmer
+    🛠 Embedded-C
+    
+    🛠 Keil µVision
+    
+    🛠 Flash Magic Programmer
 
 
 📌 Conclusion
 
 
-TimeGuard Access Shield delivers a smart fusion of authentication + automation + time monitoring, making it suitable for:
-
-
-🏭 Industrial Workshops
-
-🎓 Training Labs
-
-⚠ Hazardous Machinery
-
-🔐 Controlled-Usage Systems
+    TimeGuard Access Shield delivers a smart fusion of authentication + automation + time monitoring, making it suitable for:
 
 
 This project proves the potential of embedded systems in real-time access-restricted automation—secure, scalable, user-friendly, and deployment-ready.
