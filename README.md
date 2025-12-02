@@ -11,7 +11,8 @@ controlled environments.
 
 🎯 AIM
 
-    To design a secure embedded system that grants machine access only to authorized users and only within pre-defined valid time intervals.
+To design a secure embedded system that grants machine access only to authorized users and only within pre-defined valid time intervals.
+
 
 ⭐ Key Objectives
 
