@@ -3,10 +3,11 @@
                                  ⏳ Password-Controlled • Time-Restricted Machine Operation System
 
 🧠 Project Overview
-
-    TimeGuard Access Shield is an intelligent access-controlled machine operation system that only allows device usage during authorized working hours and by authenticated users.
-    By integrating RTC time tracking, password authentication, and interrupt-based configuration,   this project enhances security, prevents misuse, and ensures safe automation in 
-    controlled environments.
+ 
+ TimeGuard Access Shield is an intelligent access-controlled machine operation system that only allows device usage during authorized working hours and by authenticated users.
+By integrating RTC time tracking, password authentication, and interrupt-based configuration,   this project enhances security, prevents misuse, and ensures safe automation in 
+controlled environments.
+   
 
 🎯 AIM
 
@@ -117,9 +118,8 @@
 
 📌 Conclusion
 
-
-       The TimeGuard Access Shield provides a secure and reliable solution for controlling machine operation using password authentication and RTC-based time restrictions. By integrating real-time monitoring, programmable working-hour limits, and    an interrupt-driven configuration menu, the system ensures that only authorized users can operate the device and only during permitted hours. This enhances safety, prevents unauthorized usage, and supports disciplined machine management in     laboratories, workshops, and industrial environments. With flexible editing options for RTC, password, and device timing, the system offers both usability and strong access control, making it a practical and efficient embedded application.
-
+ The TimeGuard Access Shield provides a secure and reliable solution for controlling machine operation using password authentication and RTC-based time restrictions. By integrating real-time monitoring, programmable working-hour limits, and    an interrupt-driven configuration menu, the system ensures that only authorized users can operate the device and only during permitted hours. This enhances safety, prevents unauthorized usage, and supports disciplined machine management in     laboratories, workshops, and industrial environments. With flexible editing options for RTC, password, and device timing, the system offers both usability and strong access control, making it a practical and efficient embedded application.
+      
 
 👨‍💻 Developed & Implemented By
 
