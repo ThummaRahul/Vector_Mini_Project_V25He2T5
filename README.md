@@ -5,7 +5,7 @@
 🧠 Project Overview
 
 TimeGuard Access Shield is an intelligent access-controlled machine operation system that only allows device usage during authorized working hours and by authenticated users.
-By integrating RTC time tracking, password authentication, and interrupt-based configuration, this project enhances security, prevents misuse, and ensures safe automation in 
+By integrating RTC time tracking, password authentication, and interrupt-based configuration,   this project enhances security, prevents misuse, and ensures safe automation in 
 controlled environments.
 
 🎯 AIM
